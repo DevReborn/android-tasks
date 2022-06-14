@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "android-tasks"
+rootProject.name = "com.reborn.tasks.android"
 include ':app'
